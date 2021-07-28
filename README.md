@@ -8,8 +8,9 @@
 
 <img src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kst54309">
 
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 
 #### Tools
 
@@ -18,9 +19,17 @@
 - 🔭 I’m currently working on Backend Development.
 - 🌱 I’m currently learning Data Engineering. 
 
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ryankor&show_icons=true&theme=tokyonight" />
+
 #### Get in Touch
 
 [![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)](https://medium.com/@equus3144) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seung-tae-kim-3bb15715b)](https://www.linkedin.com/in/seung-tae-kim-3bb15715b) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:equus3144@gmail.com)](mailto:equus3144@gmail.com)
+
+
+
+
+
 
 <!--
 **RyanKor/RyanKor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
