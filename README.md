@@ -10,7 +10,9 @@
 
 <img src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/OpenStack-ED1944.svg?&style=for-the-badge&logo=openstack"/> <img src="https://img.shields.io/badge/tensorflow-fc8b35.svg?&style=for-the-badge&logo=tensorflow"/> <img src="https://img.shields.io/badge/pytorch-ed7158.svg?&style=for-the-badge&logo=pytorch"/> 
+<img src="https://img.shields.io/badge/OpenStack-ED1944.svg?&style=for-the-badge&logo=openstack"/> <img src="https://img.shields.io/badge/tensorflow-fc8b35.svg?&style=for-the-badge&logo=tensorflow"/> 
+
+<!-- <img src="https://img.shields.io/badge/pytorch-ed7158.svg?&style=for-the-badge&logo=pytorch"/>  -->
 
 
 #### Tools
