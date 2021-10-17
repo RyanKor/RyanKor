@@ -28,14 +28,14 @@
 [![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)](https://medium.com/@equus3144) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seung-tae-kim-3bb15715b)](https://www.linkedin.com/in/seung-tae-kim-3bb15715b) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:equus3144@gmail.com)](mailto:equus3144@gmail.com)
 
 
+<!--
+**RyanKor/RyanKor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+백준&git stat 정보
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kst54309">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ryankor&show_icons=true&theme=tokyonight" />
 
-
-
-<!--
-**RyanKor/RyanKor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 백준 API
 
