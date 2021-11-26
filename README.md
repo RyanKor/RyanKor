@@ -4,6 +4,9 @@
 
 #### 🏄‍♂️ Skill Set as a Software Engineer
 
+- [Resume - Korean](https://programmers.co.kr/pr/equus3144_2215)
+- [Resume - English : Getting Ready]
+
 #### Languages & Platforms
 
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
@@ -19,8 +22,8 @@
 
 <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/> 
 
-- 🔭 I’m currently working on Backend Development.
-- 🌱 I’m currently learning Data Engineering. 
+- 🔭 I worked on Backend Development.
+- 🌱 I’m currently learning ML Engineering. 
 
 
 #### Get in Touch
