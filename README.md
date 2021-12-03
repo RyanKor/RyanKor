@@ -28,6 +28,7 @@
 
 - [OpenStack Team Repo](https://github.com/openstack-kr/contribution-academy-2021)
 - [OpenStack Personal Activity](https://github.com/RyanKor/2021-OpenStack-Open-Source-Contribution)
+- [Open Source Contribution Academy 2021 Final Presentation, 1:34:51](https://www.youtube.com/watch?v=BkwRXD8TzOI)
 
 #### LIKELION Lecture
 
