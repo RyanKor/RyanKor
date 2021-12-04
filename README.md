@@ -15,11 +15,11 @@
 ---
 
 #### AI : ML & DL
-
+- [Korean NLP Legal Document Summarization](https://github.com/RyanKor/ko-nlp-legal-docs-summary)
 - [Wanted : Korean job category classification with DistilBERT & Model Serving](https://github.com/RyanKor/wanted-pilot)
 - [Upstage : Object Detection for Classification of Recycled Items](https://github.com/RyanKor/Object-Detection-for-Classification-of-Recycled-Items)
-- [Programmers : Artwork Classification](https://github.com/RyanKor/dev-match-ML)
 - [Programmers : Employment RecSys](https://github.com/RyanKor/dev-match-recommendation)
+- [Programmers : Artwork Classification](https://github.com/RyanKor/dev-match-ML)
 - [Google ML Bootcamp 2021](https://github.com/RyanKor/2021-google-ml-bootcamp)
 - [ML & DL Book Practice](https://github.com/RyanKor/dl-ml-book-code)
 - [DL Paper Review & Codes](https://github.com/RyanKor/DL-Paper-Review-and-Code-Practice)
