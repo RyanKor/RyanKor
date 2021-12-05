@@ -28,7 +28,6 @@
 
 - [OpenStack Team Repo](https://github.com/openstack-kr/contribution-academy-2021)
 - [OpenStack Personal Activity](https://github.com/RyanKor/2021-OpenStack-Open-Source-Contribution)
-- [Open Source Contribution Academy 2021 Final Presentation, 1:34:51](https://www.youtube.com/watch?v=BkwRXD8TzOI)
 
 #### LIKELION Lecture
 
@@ -51,6 +50,12 @@
 - [Tensorflow Developer Certificate](https://www.credential.net/8b28d930-5e16-4023-884b-1820fd8d8f5e#gs.h8ighc)
 - [GCP Professional Data Engineer Certificate](https://www.credential.net/03537775-3648-4fd1-a06c-8ea02d91613e?key=304142fead33e44f6e01c27b1bc10af50205ada70a1f7d7ce64de1ad27711062)
 - [GCP Professional ML Certificate - Comming Soon!]()
+
+
+#### Developer Presentation
+
+- [Open Source Contribution Academy 2021 Final Presentation](https://www.youtube.com/watch?v=BkwRXD8TzOI), check the video from 1:34:51
+- [OpenInfra Day 2021 - Coming Soon!]()
 
 ### Get in Touch
 
