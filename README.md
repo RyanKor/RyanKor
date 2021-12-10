@@ -55,7 +55,7 @@
 #### Developer Presentation
 
 - [Open Source Contribution Academy 2021 Final Presentation](https://www.youtube.com/watch?v=BkwRXD8TzOI), check the video from 1:34:51
-- [OpenInfra Day 2021 - Coming Soon!]()
+- [From Zero to Hero: Contribution Guidebook for OpenStack Beginners], OpenInfra Day 2021 - 13:04(https://openinfradays.kr/session/30)
 
 ### Get in Touch
 
