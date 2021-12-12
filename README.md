@@ -15,6 +15,7 @@
 ---
 
 #### AI : ML & DL
+- [Kaggle Competition : TensorFlow - Help Protect the Great Barrier Reef (before submission!)](https://www.kaggle.com/seungtaekim/faster-r-cnn-the-great-barrier-reef)
 - [Korean NLP Legal Document Summarization](https://github.com/RyanKor/ko-nlp-legal-docs-summary)
 - [Wanted : Korean job category classification with DistilBERT & Model Serving](https://github.com/RyanKor/wanted-pilot)
 - [(Changed to Private) Upstage : Object Detection for Classification of Recycled Items](https://github.com/RyanKor/Object-Detection-for-Classification-of-Recycled-Items)
