@@ -50,7 +50,7 @@
 
 - [Tensorflow Developer Certificate](https://www.credential.net/8b28d930-5e16-4023-884b-1820fd8d8f5e#gs.h8ighc)
 - [GCP Professional Data Engineer Certificate](https://www.credential.net/03537775-3648-4fd1-a06c-8ea02d91613e?key=304142fead33e44f6e01c27b1bc10af50205ada70a1f7d7ce64de1ad27711062)
-- [GCP Professional ML Certificate - Comming Soon!]()
+- [GCP Professional ML Certificate](https://www.credential.net/af17b9d0-9518-4966-a302-4592eb9419ec?key=3a28f329ad8c50f9c7a16071e3b1ccc30e517547b1f34d42f7e6fe7ae6df8959)
 
 
 #### Developer Presentation
