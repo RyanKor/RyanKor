@@ -18,7 +18,7 @@
 - [Kaggle Competition : TensorFlow - Help Protect the Great Barrier Reef (before submission!)](https://www.kaggle.com/seungtaekim/faster-r-cnn-the-great-barrier-reef)
 - [Korean NLP Legal Document Summarization](https://github.com/RyanKor/ko-nlp-legal-docs-summary)
 - [Wanted : Korean job category classification with DistilBERT & Model Serving](https://github.com/RyanKor/wanted-pilot)
-- [(Changed to Private) Upstage : Object Detection for Classification of Recycled Items](https://github.com/RyanKor/Object-Detection-for-Classification-of-Recycled-Items)
+- [Upstage : Object Detection for Classification of Recycled Items](https://github.com/RyanKor/Object-Detection-for-Classification-of-Recycled-Items)
 - [Programmers : Employment RecSys](https://github.com/RyanKor/dev-match-recommendation)
 - [Programmers : Artwork Classification](https://github.com/RyanKor/dev-match-ML)
 - [Google ML Bootcamp 2021](https://github.com/RyanKor/2021-google-ml-bootcamp)
