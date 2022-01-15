@@ -7,9 +7,7 @@
 - [Resume - Korean](https://programmers.co.kr/pr/equus3144_2215)
 - [Resume - English : Comming Soon!]()
 
-- 🔭 I worked on Backend Development.
-- 🌱 I’m currently learning ML Engineering. 
-
+- 🔭 I am working on AI Applicable Engineer.
 
 ### Projects
 ---
@@ -17,8 +15,9 @@
 #### AI : ML & DL
 - [Kaggle Competition](https://github.com/RyanKor/kaggle-project)
 - [Korean NLP Legal Document Summarization](https://github.com/RyanKor/ko-nlp-legal-docs-summary)
-- [Wanted : Korean job category classification with DistilBERT & Model Serving](https://github.com/RyanKor/wanted-pilot)
-- [Upstage : Object Detection for Classification of Recycled Items](https://github.com/RyanKor/Object-Detection-for-Classification-of-Recycled-Items)
+- (Private) [Buzzni : AI Model Scoring API Server](https://github.com/RyanKor/buzzni-ai-backend-pilot)
+- (Private) [Wanted : Korean job category classification with DistilBERT & Model Serving](https://github.com/RyanKor/wanted-pilot)
+- (Private) [Upstage : Object Detection for Classification of Recycled Items](https://github.com/RyanKor/Object-Detection-for-Classification-of-Recycled-Items)
 - [Programmers : Employment RecSys](https://github.com/RyanKor/dev-match-recommendation)
 - [Programmers : Artwork Classification](https://github.com/RyanKor/dev-match-ML)
 - [Google ML Bootcamp 2021](https://github.com/RyanKor/2021-google-ml-bootcamp)
@@ -29,18 +28,6 @@
 
 - [OpenStack Team Repo](https://github.com/openstack-kr/contribution-academy-2021)
 - [OpenStack Personal Activity](https://github.com/RyanKor/2021-OpenStack-Open-Source-Contribution)
-
-#### LIKELION Lecture
-
-- [HUST x Connect Foundation](https://github.com/RyanKor/connect-foundation-material)
-- [HCM Univ 2weeks Course](https://github.com/RyanKor/2weeks-curriculum-for-HCM-Univ)
-- [Edumall Python Online Course](https://github.com/RyanKor/likelion-edumall-python-online)
-
-#### JS
-
-- [Vanilla JS Study](https://github.com/RyanKor/vanilla-js-for-bootcamp)
-- [Node.js Study](https://github.com/RyanKor/node-js-for-bootcamp)
-- [Jquery Study](https://github.com/RyanKor/eating-jquery)
 
 #### Algorithms
 
