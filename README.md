@@ -4,9 +4,6 @@
 
 ### 🏄‍♂️ Skill Set as a Software Engineer
 
-- [Resume - Korean](https://programmers.co.kr/pr/equus3144_2215)
-- [Resume - English : Comming Soon!]()
-
 - 🔭 I am working on AI Applicable Engineer.
 
 ### Projects
