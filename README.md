@@ -4,7 +4,7 @@
 
 ### 🏄‍♂️ Skill Set as a Software Engineer
 
-- 🔭 I am working on AI Applicable Engineer.
+- 🔭 I am working on Applied AI Engineer.
 
 ### Projects
 ---
